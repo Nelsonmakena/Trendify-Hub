@@ -17,7 +17,7 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yourusername/trendfy-hub.git
+git clone https://github.com/Nelsonmakena/trendfy-hub.git
 Navigate to the project directory:
 
 bash
